@@ -4,27 +4,27 @@ import './DomeGallery.css';
 
 const DEFAULT_IMAGES = [
   {
-    src: '/pic5.jpeg',
+    src: 'pic5.jpeg',
     alt: 'Memory 1',
     message: 'this is where i saw your parents and you looked so cute in thiss pic that i kept it as my wallpaper for a day'
   },
   {
-    src: '/pic4.jpeg',
+    src: 'pic4.jpeg',
     alt: 'Memory 2',
     message: 'this is one of my favorite pics that i tried learning photoshop for a very long time so i can somehow put our images together and admire that'
   },
   {
-    src: '/pic3.jpg',
+    src: 'pic3.jpg',
     alt: 'Memory 3',
     message: 'i was wondering soo much on how you soo cuteee and soo gorgeousss looking at this pic'
   },
   {
-    src: '/pic2.jpg',
+    src: 'pic2.jpg',
     alt: 'Memory 4',
     message: 'thanks for sending me your fit checks and i love how you look in every one of them, great ass btw'
   },
   {
-    src: '/pic.png',
+    src: 'pic.png',
     alt: 'Memory 5',
     message: 'you would look beautiful and gorgeous af in any kind of haircut so haircut aint an issue for my cute princess'
   }
